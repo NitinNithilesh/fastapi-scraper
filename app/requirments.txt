@@ -1,0 +1,3 @@
+uvicorn
+requests-html
+fastapi_cache
